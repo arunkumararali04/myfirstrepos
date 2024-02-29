@@ -1,2 +1,3 @@
 # myfirstrepos
-Git n Github Session
+Exploring Github.
+Tried pushing some sample files to remote repository.
